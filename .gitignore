@@ -1,0 +1,23 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Django generated files
+*.sqlite3
+/static/
+/media/
+
+# Log files
+*.log
+
+# Environment variables file
+.env
+
+# IDE-specific files and directories
+.idea/
+*.code-workspace
+
+# Operating System files
+.DS_Store
+Thumbs.db
